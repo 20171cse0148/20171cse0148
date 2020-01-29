@@ -1,0 +1,64 @@
+
+<html>
+<head>
+<title>time table</title>
+</head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}</style>
+<body>
+ <table style="width:100%">
+  <tr>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+   
+ </tr>
+  <tr>
+    <td>de</td>
+    <td>gtc</td>
+    <td>ml</td>
+     <td rowspan="5">lunch</td>
+    <td>it</td>
+    <td colspan="6">it-lab</td>
+   
+  </tr>
+  <tr>
+    <td>ooad</td>
+    <td>it</td>
+    <td>ml</td>
+     <td>gtc</td>
+    <td>np-lab</td>
+   
+  </tr>
+<tr>
+    <td>de</td>
+    <td>gtc</td>
+    <td>dm</td>
+     <td>lunch</td>
+    <td>it-lab</td>
+   
+ 
+  </tr>
+  <tr>
+    <td>np</td>
+    <td>it</td>
+    <td>de</td>
+    <td>gtc</td>
+    <td>it-lab</td>
+ 
+  </tr>
+ <tr>
+    <td>gtc</td>
+    <td>ooad</td>
+    <td>ml</td>
+    <td>de</td>
+    <td>at</td>
+   
+  </tr>
+</table> 
+</html>
