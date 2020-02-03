@@ -1,0 +1,81 @@
+
+<html>
+<head>
+<title>time table</title>
+</head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}</style>
+<body>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h1 align="center">TIME TABLE<hr></h1>
+ <table style="width:90%" cellpadding="5">
+  <tr>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th width="10">4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8</th>
+    <th>9</th>
+   
+ </tr>
+  <tr>
+    <td align="center" bgcolor="lightgreen">monday</td>
+    <td align="center">de</td>
+    <td align="center">gtc</td>
+    <td rowspan="5" align="center" bgcolor="yellow">tea break</td>
+    <td align="center">ml</td>
+     <td rowspan="4" align="center" bgcolor="red">lunch</td>
+    <td align="center">it</td>
+    <td colspan="7" bgcolor="skyblue" align="center">it-lab</td>
+
+   
+  </tr>
+  <tr>
+<td align="center" bgcolor="lightgreen">tuesday</td>
+    <td align="center">ooad</td>
+    <td align="center">it</td>
+    <td align="center">ml</td>
+     <td align="center">gtc</td>
+    <td colspan="7" align="center" bgcolor="skyblue">np-lab</td>
+   
+  </tr>
+<tr>
+<td align="center" bgcolor="lightgreen">wednesday</td>
+    <td align="center">de</td>
+    <td align="center">gtc</td>
+    <td align="center">dm</td>
+     <td bgcolor="orange">cch</td>
+    <td colspan="7" align =center bgcolor="skyblue">it-lab</td>
+   
+ 
+  </tr>
+  <tr>
+<td align="center" bgcolor="lightgreen">thrusday</td>
+    <td align="center">np</td>
+    <td align="center">it</td>
+    <td align="center">de</td>
+    <td align="center">gtc</td>
+    <td colspan="7" align="center" bgcolor="skyblue">it-lab</td>
+ 
+  </tr>
+ <tr>
+<td align="center" bgcolor="lightgreen">friday</td>
+    <td align="center">gtc</td>
+    <td align="center">ooad</td>
+    <td colspan="2"align="center" bgcolor="skyblue">np lab</td>
+    <td bgcolor="red">lunch</td>
+    <td align="center">de</td>
+    <td align="center">at</td>
+   
+  </tr>
+</table> 
+</html>
