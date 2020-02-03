@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>example</title>
+</head>
+<body>
+<caption align="right">PESIDENCY UNIVERSITY</caption>
+<dl>
+<dt>HTML</dt>
+<dd> Hyper Text Markup Language</dd>
+<dt>DOG </dt>
+<dd> A human's best friend!</dd>
+</dl>
+<h1 align="center"> safety tips for </h1>
+<ol type="a" start="2">
+<li> be able to swim </li>
+ <li> wear a life jacket all times</li>
+<li> be able to swim </li>
+<a>link start</a>
+click <a href="http://www.google.com">here </a>
+<br>
+to watch <a href="http://www.youtube.com">here </a>
+<br>
+to send e-mail<a href="mailto:challasumanth44@gmail.com">here </a>
+<br>
+to upoload code:<a href="http://github.com">here </a>
+</body>
+</html>
