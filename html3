@@ -23,5 +23,12 @@ to watch <a href="http://www.youtube.com">here </a>
 to send e-mail<a href="mailto:challasumanth44@gmail.com">here </a>
 <br>
 to upoload code:<a href="http://github.com">here </a>
+<a href="file:///home/6CSE3/20171cse0148/html2">to upload time table: </a>
+to see second half of resume : <a href="file:///home/6CSE3/20171cse0148/html1">here </a>
+<a href="html1.html#skills"> click here </a>
+<!--this is comment-->
+<p>thia is paragraedhy</p>
+<h1 ><font color="red">The</font><font color="orange"> Greatest<font color="lightgreen"> of</font><font color="yellow"> all</font><font color="purple"> time:</font></h1><center><img src="index.jpeg" ></center>
+<img src="index1.jpeg" width="600" height="500">
 </body>
 </html>

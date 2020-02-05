@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>HTML Frames</title>
+</head>
+<frameset rows="10%,30%,10%">
+<frame name="top" src="ffile:///home/6CSE3/20171cse0148/html1">
+<frame name="main" src="file:///home/6CSE3/20171cse0148/html3">
+<frame name="bottom" src="file:///home/6CSE3/20171cse0148/html2">
+<noframes>
+<body>gthrtjh</body>
+</noframes>
+</frameset>
+</html>
